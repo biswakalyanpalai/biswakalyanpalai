@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/your-profile)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:your-email@example.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-3B6D11?style=for-the-badge\&logo=vercel\&logoColor=white)](#)
-[![GitHub followers](https://img.shields.io/github/followers/your-username?style=for-the-badge\&color=1D9E75\&labelColor=085041\&label=Followers)](https://github.com/your-username)
+[![GitHub followers](https://img.shields.io/github/followers/biswakalyanpalai?style=for-the-badge\&color=1D9E75\&labelColor=085041\&label=Followers)](https://github.com/biswakalyanpalai)
 
 </div>
 
